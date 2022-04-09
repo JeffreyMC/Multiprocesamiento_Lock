@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Lock/Lock.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lock/Properties/Banio.cs">
+    <Files>
+      <File FileName="Lock/Program.cs" Line="26" Column="4" />
+      <File FileName="Lock/Properties/Banio.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

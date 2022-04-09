@@ -1,0 +1,6 @@
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Lock\Lock\bin\Debug\Lock.exe
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Lock\Lock\bin\Debug\Lock.pdb
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Lock\Lock\obj\x86\Debug\Lock.csprojAssemblyReference.cache
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Lock\Lock\obj\x86\Debug\Lock.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Lock\Lock\obj\x86\Debug\Lock.exe
+C:\Users\Jeffrey.000\Desktop\Practica_Hilos\Practica_Hilos\Ejemplos\Lock\Lock\obj\x86\Debug\Lock.pdb

@@ -1,0 +1,5 @@
+/home/jeff/Documents/CSharp/Lock/Lock/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jeff/Documents/CSharp/Lock/Lock/bin/Debug/Lock.exe.mdb
+/home/jeff/Documents/CSharp/Lock/Lock/bin/Debug/Lock.exe
+/home/jeff/Documents/CSharp/Lock/Lock/obj/x86/Debug/Lock.exe
+/home/jeff/Documents/CSharp/Lock/Lock/obj/x86/Debug/Lock.exe.mdb
